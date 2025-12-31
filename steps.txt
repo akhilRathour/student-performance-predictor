@@ -1,0 +1,5 @@
+1.create conda env: "conda create -p venv python=3.8 -y"
+2.activate venve: "conda activate venv/"
+3.initialize git : git init
+4. setup.py and req.txt
+5.
