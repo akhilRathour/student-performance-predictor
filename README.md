@@ -10,5 +10,6 @@ pipeline folder: train_pipeline, predict_pipeline .py
 in src :exception.py, logger.py utils.py:code thats helpffull for whole project
 6. logging and exception
 7.EDA in EDA.ipynb
-8.train moodel
-9.
+8.train model in ipynb
+9.map everything done in notebook to src 
+10.
