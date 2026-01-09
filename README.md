@@ -15,3 +15,4 @@ in src :exception.py, logger.py utils.py:code thats helpffull for whole project
 10.data ingestion, where we read our dataset from a source, performed a train-test split, and saved the data inside an artifact folder.
 11.data transformation, which involves feature engineering and data cleaning, such as converting categorical features into numerical features.
 12.write functions that are relevant for whole project within utils module
+13.Model Trainer: test and compare all models and choose the best one and implemented evaluate models in utils
