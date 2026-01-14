@@ -18,7 +18,14 @@ in src :exception.py, logger.py utils.py:code thats helpffull for whole project
 13.Model Trainer: test and compare all models and choose the best one and implemented evaluate models in utils
 14.Hyperparameter tuning
 15.prediction pipeline
+16.created docker image
+
+
 16.cloud deployment
 | aws add python.config in .ebextension
   copy app.py to application.py
 ||
+
+17.EC2 instance with ECR 
+| create doccker image docker build --no-cache -t student-performance .
+
